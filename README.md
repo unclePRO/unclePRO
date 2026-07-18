@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Hacking/Typing Text Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hello World;Fullstack++Linux++AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hello+World;Fullstack+Linux+AI" alt="Typing SVG" />
 </div>
 
 ---
