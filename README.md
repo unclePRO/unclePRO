@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 System Info // `whoami`
+### `whoami`
 
 > ⚙️ **Architecture:** CSE (AI) Undergrad mapping the intersection of machine intelligence and automated threat detection.
 > 🐧 **Environment:** Linux enthusiast crafting glassy, cyberpunk-themed Hyprland and Waybar setups. 
@@ -14,18 +14,20 @@
 
 <br>
 
-### ⚡ Tech Stack // Capabilities
+### Technologies I Use
 
-<div align="center">
-  <!-- Glowing animated skill icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,python,nodejs,mongodb,express,discord,github&amp;theme=dark" alt="Skill Icons" />
-  </a>
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
 </div>
 
-<br>
-
-### 📡 Telemetry // GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <!-- Dark mode, neon-accented stat cards -->
@@ -35,7 +37,7 @@
 
 <br>
 
-### 🔗 Ping Me // Connections
+### Connections
 <div align="center">
   <a href="YOUR_KOFI_LINK">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="Ko-fi"/>
