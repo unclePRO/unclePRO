@@ -5,15 +5,12 @@
 
 ---
 
-### `whoami`
-<div>
+### whoami
 Hello! I am a CSE (AI) undergrad focused on full-stack development.
 
 I have a strong passion for building clean, user-centric web applications and constantly learning new technologies. From designing interfaces with React and Next.js to structuring backend systems, my goal is always to breathe life into my code—striving to give every project a true Gold Experience.
 
 Thank you for stopping by my profile! Please feel free to explore my repositories or reach out to connect.
-</div>
-<br>
 
 ### Technologies I Use
 
