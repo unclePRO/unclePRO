@@ -16,10 +16,10 @@ Thank you for stopping by my profile! Please feel free to explore my repositorie
 
 ### Connections
 <div align="center">
-  <a href="YOUR_KOFI_LINK">
+  <a href="https://ko-fi.com/unclepro">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="Ko-fi"/>
   </a>
-  <a href="YOUR_DISCORD_LINK_OR_HANDLE">
+  <a href="unclepro">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"/>
   </a>
 </div>
