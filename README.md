@@ -1,6 +1,12 @@
 <div align="center">
   <!-- Dynamic Hacking/Typing Text Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hello+World;Fullstack+Linux+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=unclepro;Fullstack+.+Linux+.+AI" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://unclepro.site">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 Hello! I am a CSE (AI) undergrad focused on full-stack development.
