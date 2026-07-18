@@ -1,15 +1,12 @@
 <div align="center">
   <!-- Dynamic Hacking/Typing Text Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=%3E+INITIATING+SYSTEM_...;%3E+HELLO,+I%27M+AVIRAL+PANDEY;%3E+AI+_+CYBERSECURITY+ENTHUSIAST;%3E+LINUX+RICER+_+BACKEND+DEV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=%3E+AVIRAL+|+AI+_+Fullstack+_+Linux" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 💻 System Info // `whoami`
 
-```bash
-aviral@iiitdm:~$ cat user_profile.txt
-```
 > ⚙️ **Architecture:** CSE (AI) Undergrad mapping the intersection of machine intelligence and automated threat detection.
 > 🐧 **Environment:** Linux enthusiast crafting glassy, cyberpunk-themed Hyprland and Waybar setups. 
 > 👾 **Current Ops:** Maintaining the `octopus` Discord bot and compiling custom dotfiles for the community.
