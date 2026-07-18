@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hello+World;Fullstack+Linux+AI" alt="Typing SVG" />
 </div>
 
----
-
-### whoami
 Hello! I am a CSE (AI) undergrad focused on full-stack development.
 
 I have a strong passion for building clean, user-centric web applications and constantly learning new technologies. From designing interfaces with React and Next.js to structuring backend systems, my goal is always to breathe life into my code—striving to give every project a true Gold Experience.
